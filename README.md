@@ -1,6 +1,3 @@
-Got it! Here's an updated README tailored specifically for the repository you provided:
-
----
 
 # UPI QR Code Generator
 
